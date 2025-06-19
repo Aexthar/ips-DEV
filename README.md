@@ -7,3 +7,9 @@ Make sure to follow the instructions below to generated libs adapted to your har
 
 ### OpenBLAS
 
+Clone OpenBLAS project from this url : `https://github.com/OpenMathLib/OpenBLAS` and follow the instructions.\
+Basically, when you are in the OpenBLAS's newly cloned repository, commands to enter in your shell should be :
+* `make`
+* `make PREFIX=your/path/to/ips-DEV/include/OpenBLAS-lib` install
+
+### Armadillo
